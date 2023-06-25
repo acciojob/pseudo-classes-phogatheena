@@ -12,6 +12,7 @@ li:first-child,li:last-child
 {
 	background-color:white;
     width:370px;
+	color:red;
 }
 li:nth-child(2n)
 {
