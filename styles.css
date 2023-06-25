@@ -15,7 +15,7 @@ li:first-child,li:last-child
 }
 li:nth-child(2n)
 {
-	background-color:gray;
+	background-color:slategray;
     width:370px;
 }
 .three
